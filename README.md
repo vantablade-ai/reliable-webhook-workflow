@@ -1,6 +1,6 @@
 # Reliable Webhook Workflow
 
-![CI](https://github.com/OWNER/reliable-webhook-workflow/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/vantablade-ai/reliable-webhook-workflow/actions/workflows/ci.yml/badge.svg)
 
 A standalone Python 3.11 proof that accepts signed external events quickly, stores each event and its job durably, and processes work asynchronously with bounded retries and crash recovery.
 
@@ -61,7 +61,7 @@ stateDiagram-v2
 ## 60-second offline demo
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/vantablade-ai/reliable-webhook-workflow.git
 cd reliable-webhook-workflow
 make install
 make demo
