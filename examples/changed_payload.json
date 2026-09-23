@@ -1,0 +1,1 @@
+{"event_id":"evt_001","event_type":"order.created","order_id":"order_123","customer_ref":"customer_demo","amount_cents":5100,"currency":"USD"}

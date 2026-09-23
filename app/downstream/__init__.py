@@ -1,0 +1,1 @@
+"""Synthetic downstream adapters."""
